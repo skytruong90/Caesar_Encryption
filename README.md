@@ -13,7 +13,13 @@ This project is designed to explore and understand the principles of encryption 
 
 To get started with the Caesar_Encryption project, follow these steps:
 
-### Clone the Repository:
+1. Clone the Repository:
 ```bash
-
+git clone https://github.com/skytruong90/Caesar_Encryption.git
 ```
+2. Navigate to the Project Directory:
+```bash
+cd Caesar_Encryption
+```
+
+
